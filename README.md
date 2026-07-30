@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E5F&height=180&section=header&text=Привет,%20я%20PastS1mple&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Junior%20Python%20Backend%20Developer&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E5F&height=180&section=header&text=Привет,%20я%20PastS1mple&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -36,6 +36,18 @@
 **Инструменты:** VS Code · PyCharm
 
 **Сейчас изучаю:** FastAPI · PostgreSQL · SQLAlchemy · Docker Compose · Redis · pytest · CI/CD (GitHub Actions)
+
+---
+
+### 🐍 Змейка
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArietIT/ArietIT/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArietIT/ArietIT/output/github-contribution-grid-snake.svg" />
+    <img alt="змейка съедает график контрибуций" src="https://raw.githubusercontent.com/ArietIT/ArietIT/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
 
 ---
 
