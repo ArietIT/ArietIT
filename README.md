@@ -1,10 +1,18 @@
-# Привет! 👋 Меня зовут Ариет
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=ArietIT%20%7C%20Developer&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header Banner" />
+</p>
 
-Добро пожаловать в мой профиль на GitHub! Я увлекаюсь разработкой, системным администрированием, геймдевом и многим другим. Здесь вы найдете мои проекты, скрипты и наработки.
+<p align="center">
+  <a href="https://github.com/ArietIT">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+%26+Django+Developer;Linux+%26+DevOps+Enthusiast;Gamedev+%26+3D+Creator" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Технологический стек и инструменты
+
+<br />
 
 #### 🚀 Backend
 <p>
@@ -57,19 +65,27 @@
 
 ---
 
-### 📚 Что я сейчас изучаю
-В данный момент активно расширяю свои навыки и погружаюсь в следующие технологии и практики:
-* **FastAPI** — для создания быстрого и современного асинхронного API.
-* **GitHub Actions** — для автоматизации рабочих процессов.
-* **SQLAlchemy** — для продвинутой работы с базами данных из Python.
-* **Docker Compose** — для управления многоконтейнерными приложениями.
-* **pytest** — для написания надежных юнит-тестов.
-* **CI/CD** — для выстраивания полноценных процессов непрерывной интеграции и доставки.
+### 📚 Сейчас изучаю
+
+<br />
+
+* ⚡ **FastAPI** — асинхронная веб-разработка
+* ⚙️ **GitHub Actions** — автоматизация workflows
+* 🗄️ **SQLAlchemy** — ORM и асинхронные запросы
+* 🐳 **Docker Compose** — оркестрация контейнеров
+* 🧪 **pytest** — тестирование кода
+* 🔄 **CI/CD** — непрерывная интеграция и деплой
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 Статистика профиля
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArietIT&show_icons=true&theme=radical" alt="ArietIT's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArietIT&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArietIT&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
